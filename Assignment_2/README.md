@@ -1,4 +1,4 @@
-# Assingment 1: Control Structures in Python
+# Assingment 2: Control Structures in Python
 
 ## Task 1: Check if a number is even or odd
  This Python script checks whether a given number is even or odd.
